@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var NameWrapper_1 = require("./src/NameWrapper");
+exports.NameWrapper = NameWrapper_1.NameWrapper;
+var PlayerWrapper_1 = require("./src/PlayerWrapper");
+exports.PlayerWrapper = PlayerWrapper_1.PlayerWrapper;
+exports.destructWrapper = PlayerWrapper_1.destructWrapper;
+var UrlBuilder_1 = require("./src/UrlBuilder");
+exports.UrlBuilder = UrlBuilder_1.UrlBuilder;
+var Format_1 = require("./src/Format");
+exports.Format = Format_1.Format;
+exports.format = Format_1.format;
