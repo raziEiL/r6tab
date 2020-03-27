@@ -1,17 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-let fakeUrl;
-try {
-    const cfg = require("../config_locale.json");
-    if (cfg)
-        fakeUrl = cfg.fakeAvatarUrl;
-}
-catch (err) {
-    console.log("Use ubisoft avatar url");
-}
 const time = () => Math.floor(Date.now() / 1000).toString();
 class UrlBuilder {
-    constructor() {
+    constructor(fakeUrl) {
+        this._fakeUrl = fakeUrl;
         this._siteUrl = "https://r6tab.com/";
         this._APIUrl = "https://r6.api.tab.one/";
         this._platform = {
@@ -47,7 +39,7 @@ class UrlBuilder {
         return url.href;
     }
     getAvatar(p_user) {
-        return fakeUrl ? fakeUrl : `https://ubisoft-avatars.akamaized.net/${p_user}/default_146_146.png`;
+        return this._fakeUrl ? this._fakeUrl : `https://ubisoft-avatars.akamaized.net/${p_user}/default_146_146.png`;
     }
     getProfile(p_id) {
         return `${this._siteUrl}player/${p_id}`;

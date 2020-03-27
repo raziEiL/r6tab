@@ -20,16 +20,16 @@ class PlayerWrapper {
     }
 }
 exports.PlayerWrapper = PlayerWrapper;
-function destructWrapper(wrapper) {
+function getCompatibleData(w) {
     return {
-        p_id: wrapper.data.player.p_id,
-        p_name: wrapper.data.player.p_name,
-        p_platform: wrapper.data.player.p_platform,
-        kd: wrapper.data.ranked.kd,
-        p_level: wrapper.data.stats.level,
-        p_user: wrapper.data.player.p_user,
-        p_currentmmr: wrapper.data.ranked.mmr,
-        p_currentrank: wrapper.data.ranked.rank
+        p_id: w.data.player.p_id,
+        p_name: w.data.player.p_name,
+        p_platform: w.data.player.p_platform,
+        kd: w.data.ranked.kd,
+        p_level: w.data.stats.level,
+        p_user: w.data.player.p_user,
+        p_currentmmr: w.data.ranked.mmr,
+        p_currentrank: w.data.ranked.rank
     };
 }
-exports.destructWrapper = destructWrapper;
+exports.getCompatibleData = getCompatibleData;
