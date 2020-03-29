@@ -20,7 +20,9 @@
         "utime": 1585317446,
         "status": 2147483647
     },
-    "aliases": [],
+    "aliases": [
+
+    ],
     "stats": {
         "level": 375,
         "casualpvp_kills": 5396,
@@ -190,7 +192,9 @@
         },
         "is_premium": true
     },
-    "history": [],
+    "history": [
+
+    ],
     "seasons": {
         "6": {
             "NA_mmr": 5287,
