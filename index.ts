@@ -9,7 +9,7 @@
 export * as PlayerWrapper from "./src/PlayerWrapper";
 export * as UrlBuilder from "./src/UrlBuilder"; */
 
-export { NameWrapper } from "./src/NameWrapper";
-export { PlayerWrapper, getCompatibleData, CompatibleData } from "./src/PlayerWrapper";
-export { UrlBuilder } from "./src/UrlBuilder";
-export { Format, format } from "./src/Format";
+export { NameWrapper } from "./src/name-wrapper";
+export { PlayerWrapper, getCompatibleData, CompatibleData } from "./src/player-wrapper";
+export { UrlBuilder } from "./src/url-builder";
+export { Format, format } from "./src/format";

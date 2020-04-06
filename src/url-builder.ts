@@ -15,7 +15,7 @@ export class UrlBuilder {
     constructor(fakeUrl?: string) {
         this._fakeUrl = fakeUrl;
         this._siteUrl = "https://r6tab.com/";
-        this._APIUrl = "https://r6.api.tab.one/";
+        this._APIUrl = "https://r6.apitab.com/";
         this._platform = {
             uplay: "uplay",
             psn: "psn",
@@ -46,9 +46,10 @@ export class UrlBuilder {
         return this.getNames(name, this._platform.xbl, noTimestamp);
     }
     /**
-     * @param {String} name player name to search
-     * @param {String} platform value from platform property
-     * @return {String} request url {GET} https://r6tab.com
+     * @discription API Method: Search by name. Returns JSON data about a multiple users.
+     * @param {String} name Name of the player to search
+     * @param {String} platform Player platform to search. Value from platform property
+     * @return {String} request URL
      */
     getNames(name: string, platform: string, noTimestamp?: boolean) {
         const url = new URL(this._APIUrl);
@@ -58,8 +59,9 @@ export class UrlBuilder {
         return url.href;
     }
     /**
-     * @param {String} p_id mask: "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-     * @return {String} request url {GET} https://r6tab.com
+     * @discription API Method: Search by ID. Returns JSON data about a single user.
+     * @param {String} p_id Identifier assigned by Ubisoft to the player. Identifier has the following format (mask): xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+     * @return {String} request URL
      */
     getPlayerData(p_id: string, noTimestamp?: boolean) {
         const url = new URL(this._APIUrl);
