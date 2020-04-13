@@ -65,7 +65,7 @@ export class UrlBuilder {
      */
     getPlayerData(p_id: string, noTimestamp?: boolean) {
         const url = new URL(this._APIUrl);
-        url.pathname = `player/${p_id}`;
+        url.pathname = `update/${p_id}`;
         if (!noTimestamp)
             url.searchParams.append("u", time());
         return url.href;
