@@ -85,7 +85,7 @@ export class UrlBuilder {
     getAvatar(p_user: string) {
         return this._fakeUrl ? this._fakeUrl : `https://ubisoft-avatars.akamaized.net/${p_user}/default_146_146.png`;
     }
-    getProfile(p_id: string) {
-        return `${this._siteUrl}player/${p_id}`;
+    getProfile(p_id: string, deprecatedSite?: boolean) {
+        return deprecatedSite ? `${this._siteUrl}player/${p_id}` : `https://r6.tracker.network/profile/${p_id}`;
     }
 }
