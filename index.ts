@@ -12,4 +12,4 @@ export * as UrlBuilder from "./src/UrlBuilder"; */
 export { NameWrapper } from "./src/name-wrapper";
 export { PlayerWrapper, getCompatibleData, CompatibleData } from "./src/player-wrapper";
 export { UrlBuilder } from "./src/url-builder";
-export { Format, format } from "./src/format";
+export { Format, format } from "./src/formatter";
