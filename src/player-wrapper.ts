@@ -19,6 +19,7 @@ export interface Player {
     p_id: string;
     p_user: string;
     p_name: string;
+    p_name_small: string;
     p_platform: string;
 }
 
