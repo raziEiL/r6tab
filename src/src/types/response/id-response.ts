@@ -1,21 +1,100 @@
-export interface PlayerData {
+export interface IdResponse {
     status: number;
     found: boolean;
-    player: Player;
-    custom: Custom;
-    social: Social;
-    stats: Stats;
-    ranked: Ranked;
+    player: IdPlayer;
+    custom: IdCustom;
+    refresh: IdRefresh;
+    aliases: { [key: string]: IdAlias };
+    stats: IdStats;
+    ranked: IdRanked;
+    social: IdSocial;
+    operators: { [key: string]: IdOperator };
+    overlay: IdOverlay;
+    history: { [key: string]: IdHistory };
+    seasons: { [key: string]: IdSeason };
+    op_main: IdOpMain;
 }
 
-export interface Custom {
-    customurl: string;
+export interface IdAlias {
+    name: string;
+    utime: number;
+    date: string;
+}
+
+export interface IdCustom {
+    customurl: boolean;
     verified: boolean;
     visitors: number;
     banned: boolean;
 }
 
-export interface Player {
+export interface IdHistory {
+    started: number;
+    ended: number;
+    date: string;
+    casual_kills: number;
+    casual_deaths: number;
+    casual_wins: number;
+    casual_losses: number;
+    casual_matches: number;
+    ranked_kills: number;
+    ranked_deaths: number;
+    ranked_wins: number;
+    ranked_losses: number;
+    ranked_matches: number;
+    total_wins: number;
+    total_losses: number;
+    total_kills: number;
+    total_headshots: number;
+    NA_mmrchange: number;
+    NA_mmr: number;
+    EU_mmrchange: number;
+    EU_mmr: number;
+    AS_mmrchange: number;
+    AS_mmr: number;
+    casual_kd: string;
+    casual_wl: string;
+    ranked_kd: string;
+    ranked_wl: string;
+    headshot_accuracy: string;
+    color: string;
+}
+
+export interface IdOpMain {
+    attacker: string;
+    defender: string;
+    seasonal: IdOpMainOverall;
+    overall: IdOpMainOverall;
+}
+
+export interface IdOpMainOverall {
+    attacker: string;
+    defender: string;
+}
+
+export interface IdOperator {
+    id: string;
+    type: string;
+    overall: IdOperatorOverall;
+    seasonal: IdOperatorOverall;
+}
+
+export interface IdOperatorOverall {
+    wins: number;
+    losses: number;
+    kills: number;
+    deaths: number;
+    timeplayed: number;
+    kd: string;
+    winrate: number;
+}
+
+export interface IdOverlay {
+    team: any;
+    roster: any;
+}
+
+export interface IdPlayer {
     p_id: string;
     p_user: string;
     p_name: string;
@@ -23,7 +102,7 @@ export interface Player {
     p_platform: string;
 }
 
-export interface Ranked {
+export interface IdRanked {
     AS_kills: number;
     AS_deaths: number;
     AS_wins: number;
@@ -37,6 +116,7 @@ export interface Ranked {
     AS_matches: number;
     AS_wl: string;
     AS_kd: string;
+    AS_intkd: number;
     AS_rank: number;
     AS_rankname: string;
     AS_maxrank: number;
@@ -61,6 +141,7 @@ export interface Ranked {
     EU_matches: number;
     EU_wl: string;
     EU_kd: string;
+    EU_intkd: number;
     EU_rank: number;
     EU_rankname: string;
     EU_maxrank: number;
@@ -80,6 +161,7 @@ export interface Ranked {
     NA_matches: number;
     NA_wl: string;
     NA_kd: string;
+    NA_intkd: number;
     NA_rank: number;
     NA_rankname: string;
     NA_maxrank: number;
@@ -93,51 +175,68 @@ export interface Ranked {
     rankname: string;
     maxrank: number;
     maxrankname: string;
+    champ: number;
     topregion: string;
     actualmmr: number;
+    best_mmrchange: number;
+    best_wins: number;
+    best_losses: number;
+    best_matches: number;
+    best_kd: string;
+    best_intkd: number;
+    best_wl: string;
     allmatches: number;
     allkd: string;
+    allintkd: number;
     allwl: string;
     killpermatch: number;
     deathspermatch: number;
 }
 
-export interface Social {
-    status: number;
+export interface IdRefresh {
+    queued: boolean;
+    possible: boolean;
+    qtime: number;
     utime: number;
-    userid: number;
-    uplay_user: string;
-    uplay_name: string;
-    twitter: string;
-    instagram: string;
-    twitch: string;
-    twitch_id: string;
-    youtube: string;
-    mixer: string;
-    discord: string;
-    discord_id: string;
-    discord_user: string;
-    esl: string;
-    bio: string;
-    background: string;
-    embed: string;
-    aliases_hide: number;
-    twitch_display: number;
-    premium: Premium;
+    status: number;
+}
+
+export interface IdSeason {
+    NA_mmr: number;
+    NA_champ: number;
+    NA_wins: number;
+    NA_losses: number;
+    NA_abandons: number;
+    NA_kills: number;
+    NA_deaths: number;
+    EU_mmr: number;
+    EU_champ: number;
+    EU_wins: number;
+    EU_losses: number;
+    EU_abandons: number;
+    EU_kills: number;
+    EU_deaths: number;
+    AS_mmr: number;
+    AS_champ: number;
+    AS_wins: number;
+    AS_losses: number;
+    AS_abandons: number;
+    AS_kills: number;
+    AS_deaths: number;
+    seasonname: string;
+    seasonclass: string;
+    champ: string;
+    maxmmr: number;
+    maxrank: number;
+    maxrankname: string;
+}
+
+export interface IdSocial {
     is_premium: boolean;
 }
 
-export interface Premium {
-    tabwire: boolean;
-    discord: boolean;
-    twitch: boolean;
-}
-
-export interface Stats {
+export interface IdStats {
     level: number;
-    tabmmr: number;
-    tabrank: number;
-    tabrankname: string;
     casualpvp_kills: number;
     casualpvp_death: number;
     casualpvp_matchwon: number;
@@ -156,6 +255,7 @@ export interface Stats {
     rankedpvp_matches: number;
     rankedpvp_kd: string;
     rankedpvp_wl: string;
+    rankedpvp_roundwl: string;
     generalpvp_headshot: number;
     generalpvp_kills: number;
     generalpvp_timeplayed: number;
@@ -194,55 +294,7 @@ export interface Stats {
     secureareapvp_wl: string;
     rescuehostagepvp_matches: number;
     rescuehostagepvp_wl: string;
-}
-
-export class PlayerWrapper {
-    private _data: PlayerData;
-    private _isfound: boolean;
-    /**
-     * @constructor
-     * @param {Object} data - response object
-     */
-    constructor(data: any) {
-        this._data = data;
-        this._isfound = this.isFound();
-    }
-    get data() {
-        return this._data;
-    }
-    set data(data) {
-        this._data = data;
-        this._isfound = this.isFound();
-    }
-    get isfound() {
-        return this._isfound;
-    }
-    isFound() {
-        return this._data.found && typeof this._data.found === "boolean";
-    }
-}
-
-export interface CompatibleData {
-    p_id: string;
-    p_name: string;
-    p_level: number;
-    p_platform: string;
-    p_user: string;
-    p_currentmmr: number;
-    p_currentrank: number;
-    kd: number;
-}
-
-export function getCompatibleData(w: PlayerWrapper): CompatibleData {
-    return {
-        p_id: w.data.player.p_id,
-        p_name: w.data.player.p_name,
-        p_platform: w.data.player.p_platform,
-        kd: w.data.ranked.kd,
-        // keys below were changed in new API
-        p_level: w.data.stats.level,
-        p_user: w.data.player.p_user,
-        p_currentmmr: w.data.ranked.mmr,
-        p_currentrank: w.data.ranked.rank
-    };
+    tabmmr: number;
+    tabrank: number;
+    tabrankname: string;
 }

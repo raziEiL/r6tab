@@ -1,0 +1,10 @@
+node_modules
+logs
+dist
+package-lock.json
+.vscode/*
+!.vscode/launch.json
+.jsbeautifyrc
+*.d.ts
+.env
+json_response
