@@ -1,5 +1,5 @@
 {
-    "name": "@razieil/r6tab",
+    "name": "@raz1el/r6tab",
     "version": "1.0.1",
     "description": "R6Tabwire API Client for NodeJS",
     "main": "dist/index.js",
@@ -11,10 +11,8 @@
         "build:debug": "npm run clear && tsc",
         "lint": "eslint -c .eslintrc.js --ext .js,.jsx,.ts,.tsx src",
         "lint:log": "eslint --no-color -o logs/lint.log -c .eslintrc.js --ext .js,.jsx,.ts,.tsx src",
-        "clear": "rm -rf dist logs"
-    },
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
+        "clear": "rm -rf dist logs",
+        "publish": "npm publish --access public"
     },
     "repository": {
         "type": "git",
