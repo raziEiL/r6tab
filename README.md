@@ -2,7 +2,7 @@
 The open-source library as a means of accessing the public [R6Tab | Tabstats.com](https://github.com/Tabwire/R6Tab-API) web API.
 
 ## Installation
-`npm i r6tab --save`
+`npm i @razieil/r6tab --save`
 
 ## Usage
 ```js
