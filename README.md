@@ -97,4 +97,4 @@ R6TabAPI.getProfileUrl(p_id); // https://tabstats.com/siege/player/6311edf5-f022
 https://github.com/raziEiL/r6tab/tree/master/src/json_response
 
 ## Donation
-If you want to thank us for the hard work feel free to [send any amount](https://www.paypal.me/razicat "send any amount").
+If you want to thank me for the work feel free to [send any amount](https://www.paypal.me/razicat "send any amount").
