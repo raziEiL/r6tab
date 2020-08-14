@@ -1,4 +1,4 @@
-import R6TabAPI, { R6TabAPIConfig, ServicePlatform, NameWrapper, GamePlatform, Region } from ".";
+import R6TabAPI, { R6TabAPIConfig, ServicePlatform, GamePlatform, Region } from ".";
 
 describe("Config", () => {
     test("Config assign", () => {
@@ -43,11 +43,11 @@ describe("response", () => {
 
     test("#.statsByName", async () => {
         let res = await r6tab.statsByName("denis", ServicePlatform.UPLAY);
-        expect(NameWrapper.isFound(res)).toBeTruthy();
+        expect(res.found).toBeTruthy();
         res = await r6tab.statsByName("denis", ServicePlatform.PSN);
-        expect(NameWrapper.isFound(res)).toBeTruthy();
-        res = await r6tab.statsByName("denis", ServicePlatform.XBL);
-        expect(NameWrapper.isFound(res)).toBeTruthy();
+        expect(res.found).toBeTruthy();
+        res = await r6tab.statsByName("123", ServicePlatform.XBL);
+        expect(res.found).toBeFalsy();
     });
     test("#.statsById", async () => {
         let res = await r6tab.statsById("6311edf5-f022-481c-bc9b-b725b703d5e2");

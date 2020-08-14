@@ -50,29 +50,17 @@ await r6tab.statsUpdate("6311edf5-f022-481c-bc9b-b725b703d5e2");
 await r6tab.statsLeaders(GamePlatform.WINDOWS, Region.ALL);
 ```
 
-### Use NameWrapper class for NameResponse data validation
+### Use found property for data validation
 ```js
 const res = await r6tab.statsByName("Raz1el", ServicePlatform.PSN);
 
-// static method usages
-if (NameWrapper.isFound(res)) {
+if (res.found) {
     console.log(res);
 }
 else {
     console.log("data not found");
 }
-// or
-const data = new NameWrapper(res);
-
-if (data.found) {
-    console.log(data.res);
-}
-else {
-    console.log("data not found");
-}
-
 ```
-### Use found property for IdResponse data validation
 ```js
 const res = await r6tab.statsById("6311edf5-f022-481c-bc9b-b725b703d5e2");
 
@@ -86,7 +74,6 @@ else {
 ### Static method usages
 ```js
 const p_id = "6311edf5-f022-481c-bc9b-b725b703d5e2";
-
 R6TabAPI.isPlayerId(p_id); // true
 R6TabAPI.isPlayerId("xxxx-xxxx-xxxx-xxxx"); // false
 R6TabAPI.getAvatarUrl(p_id); // https://ubisoft-avatars.akamaized.net/6311edf5-f022-481c-bc9b-b725b703d5e2/default_256_256.png

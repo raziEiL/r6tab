@@ -1,9 +1,8 @@
 /* eslint-disable @typescript-eslint/camelcase */
 import axios, { AxiosInstance, AxiosRequestConfig } from "axios";
-import { R6TabAPIConfig, APIResponse, NameResponse, IdResponse, LeadersResponse, ServicePlatform, GamePlatform, Region } from "./types";
 import { timestamp } from "ts-raz-util";
-
-const REGEX_PLAYER_ID_MASK = /^[\dA-z]{8}(-[\dA-z]{4}){3}-[\dA-z]{12}$/; // xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+import { R6TabAPIConfig, APIResponse, NameResponse, IdResponse, LeadersResponse, ServicePlatform, GamePlatform, Region } from "./types";
+import { isFound, REGEX_PLAYER_ID_MASK } from "./helpers";
 
 export class R6TabAPI {
     private _axios: AxiosInstance;
@@ -23,7 +22,11 @@ export class R6TabAPI {
         return REGEX_PLAYER_ID_MASK.test(p_id);
     }
     public async statsByName(username: string, platform: ServicePlatform) {
-        return this.call<NameResponse>({ url: `search/${platform}/${username}`, params: { u: timestamp() } });
+        return this._axios({ url: `search/${platform}/${username}`, params: { u: timestamp() } })
+            .then((resp: APIResponse<NameResponse>) => {
+                resp.data.found = isFound(resp.data);
+                return resp.data;
+            });
     }
     public async statsById(p_id: string) {
         return this.call<IdResponse>({ url: `player/${p_id}`, params: { u: timestamp() } });
