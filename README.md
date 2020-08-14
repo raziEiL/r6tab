@@ -93,5 +93,8 @@ R6TabAPI.getAvatarUrl(p_id); // https://ubisoft-avatars.akamaized.net/6311edf5-f
 R6TabAPI.getProfileUrl(p_id); // https://tabstats.com/siege/player/6311edf5-f022-481c-bc9b-b725b703d5e2
 ```
 
-### JSON Response
+## JSON Response
 https://github.com/raziEiL/r6tab/tree/master/src/json_response
+
+## Donation
+If you want to thank us for the hard work feel free to [send any amount](https://www.paypal.me/razicat "send any amount").
