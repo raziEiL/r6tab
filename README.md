@@ -92,3 +92,6 @@ R6TabAPI.isPlayerId("xxxx-xxxx-xxxx-xxxx"); // false
 R6TabAPI.getAvatarUrl(p_id); // https://ubisoft-avatars.akamaized.net/6311edf5-f022-481c-bc9b-b725b703d5e2/default_256_256.png
 R6TabAPI.getProfileUrl(p_id); // https://tabstats.com/siege/player/6311edf5-f022-481c-bc9b-b725b703d5e2
 ```
+
+### JSON Response
+https://github.com/raziEiL/r6tab/tree/master/src/json_response
