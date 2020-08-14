@@ -13,6 +13,9 @@
         "lint:log": "eslint --no-color -o logs/lint.log -c .eslintrc.js --ext .js,.jsx,.ts,.tsx src",
         "clear": "rm -rf dist logs"
     },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/raziEiL/r6tab.git"
