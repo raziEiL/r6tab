@@ -1,6 +1,6 @@
 {
     "name": "@raz1el/r6tab",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "R6Tabwire API Client for NodeJS",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
