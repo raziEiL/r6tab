@@ -1,6 +1,6 @@
 {
     "name": "@raz1el/r6tab",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "R6Tabwire API Client for NodeJS",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -18,7 +18,17 @@
         "type": "git",
         "url": "https://github.com/raziEiL/r6tab.git"
     },
-    "keywords": ["r6tab", "rainbow six", "api", "api client", "tabstats", "rainbow-six-siege", "node", "javascript", "typescript"],
+    "keywords": [
+        "r6tab",
+        "rainbow six",
+        "api",
+        "api client",
+        "tabstats",
+        "rainbow-six-siege",
+        "node",
+        "javascript",
+        "typescript"
+    ],
     "author": {
         "name": "Denis Medvedev (raziEiL)",
         "email": "mr.raz4291@gmail.com"
