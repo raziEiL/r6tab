@@ -17,7 +17,7 @@
         "type": "git",
         "url": "https://github.com/raziEiL/r6tab.git"
     },
-    "keywords": [],
+    "keywords": ["r6tab", "rainbow six", "api", "api client", "tabstats"],
     "author": {
         "name": "Denis Medvedev (raziEiL)",
         "email": "mr.raz4291@gmail.com"
