@@ -1,0 +1,2711 @@
+{
+    "status": 200,
+    "region": "all",
+    "platform": "windows",
+    "regtext": "worldwide",
+    "plattext": "PC",
+    "players": {
+      "6311edf5-f022-481c-bc9b-b725b703d5e2": {
+        "ranked": {
+          "kd": 1.7,
+          "mmr": 7466,
+          "rank": 21,
+          "champ": 1,
+          "NA_mmr": 7466,
+          "NA_rank": 21,
+          "NA_champ": 1,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 365
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Ginger-.",
+          "p_user": "6311edf5-f022-481c-bc9b-b725b703d5e2",
+          "p_platform": "uplay"
+        }
+      },
+      "d28e910f-960c-48ae-9784-9c8e9d2da0fc": {
+        "ranked": {
+          "kd": 1.67,
+          "mmr": 6092,
+          "rank": 21,
+          "champ": 2,
+          "NA_mmr": 6092,
+          "NA_rank": 21,
+          "NA_champ": 2,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 391
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Anitun.CAG",
+          "p_user": "d28e910f-960c-48ae-9784-9c8e9d2da0fc",
+          "p_platform": "uplay"
+        }
+      },
+      "b6629c88-7feb-40a0-bb36-0a5e1d7432c0": {
+        "ranked": {
+          "kd": 1.36,
+          "mmr": 6084,
+          "rank": 21,
+          "champ": 3,
+          "NA_mmr": 6084,
+          "NA_rank": 21,
+          "NA_champ": 3,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 295
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "guizxum-",
+          "p_user": "b6629c88-7feb-40a0-bb36-0a5e1d7432c0",
+          "p_platform": "uplay"
+        }
+      },
+      "8df44fa6-49df-42d5-b6f1-e8c82809c37a": {
+        "ranked": {
+          "kd": 1.82,
+          "mmr": 6048,
+          "rank": 21,
+          "champ": 4,
+          "NA_mmr": 6048,
+          "NA_rank": 21,
+          "NA_champ": 4,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 265
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "yuzus.Vexed",
+          "p_user": "8df44fa6-49df-42d5-b6f1-e8c82809c37a",
+          "p_platform": "uplay"
+        }
+      },
+      "ab1ff7ae-13e4-4a6a-9b03-317285f8057b": {
+        "ranked": {
+          "kd": 1.67,
+          "mmr": 5987,
+          "rank": 21,
+          "champ": 5,
+          "NA_mmr": 5987,
+          "NA_rank": 21,
+          "NA_champ": 5,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 434
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Spoit.GODSENT",
+          "p_user": "ab1ff7ae-13e4-4a6a-9b03-317285f8057b",
+          "p_platform": "uplay"
+        }
+      },
+      "dab5ba01-c974-4c3f-a1bc-e302820c54d0": {
+        "ranked": {
+          "kd": 1.2,
+          "mmr": 5854,
+          "rank": 21,
+          "champ": 6,
+          "NA_mmr": 5854,
+          "NA_rank": 21,
+          "NA_champ": 6,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 223
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "SaKuRaMikiMaKi",
+          "p_user": "dab5ba01-c974-4c3f-a1bc-e302820c54d0",
+          "p_platform": "uplay"
+        }
+      },
+      "2eaf215a-bac1-43ab-8767-a5eb7519104d": {
+        "ranked": {
+          "kd": 1.28,
+          "mmr": 5738,
+          "rank": 21,
+          "champ": 9,
+          "NA_mmr": 5738,
+          "NA_rank": 21,
+          "NA_champ": 9,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 282
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "MeltsteraWWG.XI",
+          "p_user": "2eaf215a-bac1-43ab-8767-a5eb7519104d",
+          "p_platform": "uplay"
+        }
+      },
+      "16476cc9-59e0-40b8-9745-042db0be1cb7": {
+        "ranked": {
+          "kd": 1.34,
+          "mmr": 5692,
+          "rank": 21,
+          "champ": 9,
+          "NA_mmr": 5692,
+          "NA_rank": 21,
+          "NA_champ": 9,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 404
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "LikEfac.WanteD",
+          "p_user": "16476cc9-59e0-40b8-9745-042db0be1cb7",
+          "p_platform": "uplay"
+        }
+      },
+      "be4908b0-add1-46b8-8574-25ad3a61cae9": {
+        "ranked": {
+          "kd": 1.07,
+          "mmr": 5689,
+          "rank": 21,
+          "champ": 10,
+          "NA_mmr": 5689,
+          "NA_rank": 21,
+          "NA_champ": 10,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 343
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "sIeep22-_-",
+          "p_user": "be4908b0-add1-46b8-8574-25ad3a61cae9",
+          "p_platform": "uplay"
+        }
+      },
+      "d9b99ef6-3887-414d-9819-914a15dd143c": {
+        "ranked": {
+          "kd": 1.22,
+          "mmr": 5688,
+          "rank": 21,
+          "champ": 11,
+          "NA_mmr": 5688,
+          "NA_rank": 21,
+          "NA_champ": 11,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 294
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Ferda-.",
+          "p_user": "d9b99ef6-3887-414d-9819-914a15dd143c",
+          "p_platform": "uplay"
+        }
+      },
+      "5d5d93a9-95e5-455a-bf96-34df816ed79b": {
+        "ranked": {
+          "kd": 1.58,
+          "mmr": 5679,
+          "rank": 21,
+          "champ": 11,
+          "NA_mmr": 5679,
+          "NA_rank": 21,
+          "NA_champ": 11,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 433
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Paluhh.Liquid",
+          "p_user": "5d5d93a9-95e5-455a-bf96-34df816ed79b",
+          "p_platform": "uplay"
+        }
+      },
+      "7473f450-37f0-4211-9d7e-a5432ca74751": {
+        "ranked": {
+          "kd": 1.37,
+          "mmr": 5667,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5667,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 278
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Eggsy.eX",
+          "p_user": "7473f450-37f0-4211-9d7e-a5432ca74751",
+          "p_platform": "uplay"
+        }
+      },
+      "1aa50708-8c61-40ff-82bb-46aa6b7bc438": {
+        "ranked": {
+          "kd": 1.5,
+          "mmr": 5660,
+          "rank": 21,
+          "champ": 13,
+          "NA_mmr": 5660,
+          "NA_rank": 21,
+          "NA_champ": 13,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 322
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "QUURO.",
+          "p_user": "1aa50708-8c61-40ff-82bb-46aa6b7bc438",
+          "p_platform": "uplay"
+        }
+      },
+      "19e533f8-e3d9-41c8-ba66-be4e324e913b": {
+        "ranked": {
+          "kd": 1.41,
+          "mmr": 5656,
+          "rank": 21,
+          "champ": 14,
+          "NA_mmr": 5656,
+          "NA_rank": 21,
+          "NA_champ": 14,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 146
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Panbazou",
+          "p_user": "19e533f8-e3d9-41c8-ba66-be4e324e913b",
+          "p_platform": "uplay"
+        }
+      },
+      "b26c6ecb-c599-4db8-8fe4-d25434440380": {
+        "ranked": {
+          "kd": 1.35,
+          "mmr": 5643,
+          "rank": 21,
+          "champ": 15,
+          "NA_mmr": 5643,
+          "NA_rank": 21,
+          "NA_champ": 15,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 418
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Jeggz.TLR",
+          "p_user": "b26c6ecb-c599-4db8-8fe4-d25434440380",
+          "p_platform": "uplay"
+        }
+      },
+      "ea01c828-6d10-4385-a337-17f62e731bc9": {
+        "ranked": {
+          "kd": 2.04,
+          "mmr": 5638,
+          "rank": 21,
+          "champ": 15,
+          "NA_mmr": 5638,
+          "NA_rank": 21,
+          "NA_champ": 15,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 400
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "KevinQZ.FL",
+          "p_user": "ea01c828-6d10-4385-a337-17f62e731bc9",
+          "p_platform": "uplay"
+        }
+      },
+      "f0036750-657c-4b55-8632-ee289ba9469b": {
+        "ranked": {
+          "kd": 1.74,
+          "mmr": 5603,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5603,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 349
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "T.4.R.S",
+          "p_user": "f0036750-657c-4b55-8632-ee289ba9469b",
+          "p_platform": "uplay"
+        }
+      },
+      "4d0534be-0a5a-4cee-8b69-862dbd782747": {
+        "ranked": {
+          "kd": 1.33,
+          "mmr": 5587,
+          "rank": 21,
+          "champ": 17,
+          "NA_mmr": 5587,
+          "NA_rank": 21,
+          "NA_champ": 17,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 364
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "kIy0.",
+          "p_user": "4d0534be-0a5a-4cee-8b69-862dbd782747",
+          "p_platform": "uplay"
+        }
+      },
+      "be3313d6-d443-4eae-818f-bb7f56837781": {
+        "ranked": {
+          "kd": 1.65,
+          "mmr": 5570,
+          "rank": 21,
+          "champ": 18,
+          "NA_mmr": 5570,
+          "NA_rank": 21,
+          "NA_champ": 18,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 370
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Godly",
+          "p_user": "be3313d6-d443-4eae-818f-bb7f56837781",
+          "p_platform": "uplay"
+        }
+      },
+      "d89cfd32-c2c7-4483-a18b-117314a1b713": {
+        "ranked": {
+          "kd": 1.75,
+          "mmr": 5563,
+          "rank": 21,
+          "champ": 19,
+          "NA_mmr": 5563,
+          "NA_rank": 21,
+          "NA_champ": 19,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 242
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Lo1xR6s.",
+          "p_user": "d89cfd32-c2c7-4483-a18b-117314a1b713",
+          "p_platform": "uplay"
+        }
+      },
+      "34e0e0b2-78f5-4299-91d2-e150ab5ff042": {
+        "ranked": {
+          "kd": 1.45,
+          "mmr": 5560,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5560,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 334
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "c1ncoK",
+          "p_user": "34e0e0b2-78f5-4299-91d2-e150ab5ff042",
+          "p_platform": "uplay"
+        }
+      },
+      "1d2143b8-8baa-48a9-8d88-759ee749f9c1": {
+        "ranked": {
+          "kd": 1.2,
+          "mmr": 5556,
+          "rank": 21,
+          "champ": 20,
+          "NA_mmr": 5556,
+          "NA_rank": 21,
+          "NA_champ": 20,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 376
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "YeYeYeYeYeYezi-",
+          "p_user": "1d2143b8-8baa-48a9-8d88-759ee749f9c1",
+          "p_platform": "uplay"
+        }
+      },
+      "1a16f2cf-7bdf-4c0f-aff5-a1b103c2814e": {
+        "ranked": {
+          "kd": 1.65,
+          "mmr": 5543,
+          "rank": 21,
+          "champ": 21,
+          "NA_mmr": 5543,
+          "NA_rank": 21,
+          "NA_champ": 21,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 264
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "J111a.",
+          "p_user": "1a16f2cf-7bdf-4c0f-aff5-a1b103c2814e",
+          "p_platform": "uplay"
+        }
+      },
+      "6397d7dd-eefa-49df-a264-1d236bc76a9e": {
+        "ranked": {
+          "kd": 1.45,
+          "mmr": 5539,
+          "rank": 21,
+          "champ": 22,
+          "NA_mmr": 5539,
+          "NA_rank": 21,
+          "NA_champ": 22,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 346
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Yo.Oli18",
+          "p_user": "6397d7dd-eefa-49df-a264-1d236bc76a9e",
+          "p_platform": "uplay"
+        }
+      },
+      "826f26bd-e7cb-4d17-8312-b0878e5b4b8e": {
+        "ranked": {
+          "kd": 1.37,
+          "mmr": 5538,
+          "rank": 21,
+          "champ": 23,
+          "NA_mmr": 5538,
+          "NA_rank": 21,
+          "NA_champ": 23,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 271
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Inryo.",
+          "p_user": "826f26bd-e7cb-4d17-8312-b0878e5b4b8e",
+          "p_platform": "uplay"
+        }
+      },
+      "fe316a1a-9d5d-4dee-aed2-7b574e4f7a2e": {
+        "ranked": {
+          "kd": 2.19,
+          "mmr": 5529,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5529,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 392
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Godly.NaVi",
+          "p_user": "fe316a1a-9d5d-4dee-aed2-7b574e4f7a2e",
+          "p_platform": "uplay"
+        }
+      },
+      "d85c28fb-358c-4b70-a891-b97eafbff44b": {
+        "ranked": {
+          "kd": 1.21,
+          "mmr": 5514,
+          "rank": 21,
+          "champ": 24,
+          "NA_mmr": 5514,
+          "NA_rank": 21,
+          "NA_champ": 24,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 309
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "GoodBoy.wHL",
+          "p_user": "d85c28fb-358c-4b70-a891-b97eafbff44b",
+          "p_platform": "uplay"
+        }
+      },
+      "4a7767af-bdf2-4fd0-bf20-bc54c529f263": {
+        "ranked": {
+          "kd": 1.6,
+          "mmr": 5507,
+          "rank": 21,
+          "champ": 25,
+          "NA_mmr": 5507,
+          "NA_rank": 21,
+          "NA_champ": 25,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 236
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Scarex.",
+          "p_user": "4a7767af-bdf2-4fd0-bf20-bc54c529f263",
+          "p_platform": "uplay"
+        }
+      },
+      "9db78eef-2917-4dc8-b8c4-5e49d576efef": {
+        "ranked": {
+          "kd": 1.21,
+          "mmr": 5476,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5476,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 209
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "scarZ-",
+          "p_user": "9db78eef-2917-4dc8-b8c4-5e49d576efef",
+          "p_platform": "uplay"
+        }
+      },
+      "995b494a-0be1-4348-8704-7a7d33d39b32": {
+        "ranked": {
+          "kd": 1.47,
+          "mmr": 5457,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5457,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 408
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Zer.",
+          "p_user": "995b494a-0be1-4348-8704-7a7d33d39b32",
+          "p_platform": "uplay"
+        }
+      },
+      "e2c023db-1a08-40e3-9c00-c48ddd0968e5": {
+        "ranked": {
+          "kd": 1.63,
+          "mmr": 5456,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5456,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 229
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "KaauloWRLD",
+          "p_user": "e2c023db-1a08-40e3-9c00-c48ddd0968e5",
+          "p_platform": "uplay"
+        }
+      },
+      "dbe7c32c-1c8d-45ae-acdb-dc6fdfb1a4f8": {
+        "ranked": {
+          "kd": 1.56,
+          "mmr": 5450,
+          "rank": 21,
+          "champ": 28,
+          "NA_mmr": 5450,
+          "NA_rank": 21,
+          "NA_champ": 28,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 278
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Gryxr.eU",
+          "p_user": "dbe7c32c-1c8d-45ae-acdb-dc6fdfb1a4f8",
+          "p_platform": "uplay"
+        }
+      },
+      "b2c930ff-f418-4a2a-ad2b-22ea0725e0bb": {
+        "ranked": {
+          "kd": 1.22,
+          "mmr": 5448,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5448,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 253
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Jumooiaaaaaaa",
+          "p_user": "b2c930ff-f418-4a2a-ad2b-22ea0725e0bb",
+          "p_platform": "uplay"
+        }
+      },
+      "0ae7e536-bf55-40f1-9e23-341416db6b9f": {
+        "ranked": {
+          "kd": 1.17,
+          "mmr": 5445,
+          "rank": 21,
+          "champ": 29,
+          "NA_mmr": 5445,
+          "NA_rank": 21,
+          "NA_champ": 29,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 343
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Dream.Tempo",
+          "p_user": "0ae7e536-bf55-40f1-9e23-341416db6b9f",
+          "p_platform": "uplay"
+        }
+      },
+      "01d288fd-4105-470d-8f50-96bf8012bba3": {
+        "ranked": {
+          "kd": 1.44,
+          "mmr": 5443,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5443,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 147
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "AttaX.DK",
+          "p_user": "01d288fd-4105-470d-8f50-96bf8012bba3",
+          "p_platform": "uplay"
+        }
+      },
+      "d22534cb-905c-405b-8142-8ab165c23948": {
+        "ranked": {
+          "kd": 1.18,
+          "mmr": 5441,
+          "rank": 21,
+          "champ": 31,
+          "NA_mmr": 5441,
+          "NA_rank": 21,
+          "NA_champ": 31,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 364
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Naate.",
+          "p_user": "d22534cb-905c-405b-8142-8ab165c23948",
+          "p_platform": "uplay"
+        }
+      },
+      "6281195c-d210-424e-9d8c-880cbea36c7e": {
+        "ranked": {
+          "kd": 1.26,
+          "mmr": 5432,
+          "rank": 21,
+          "champ": 32,
+          "NA_mmr": 5432,
+          "NA_rank": 21,
+          "NA_champ": 32,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 382
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "kds.SNG",
+          "p_user": "6281195c-d210-424e-9d8c-880cbea36c7e",
+          "p_platform": "uplay"
+        }
+      },
+      "8c08ba63-6f27-45a8-949f-366104cdc527": {
+        "ranked": {
+          "kd": 1.54,
+          "mmr": 5419,
+          "rank": 21,
+          "champ": 33,
+          "NA_mmr": 5419,
+          "NA_rank": 21,
+          "NA_champ": 33,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 385
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "James79.",
+          "p_user": "8c08ba63-6f27-45a8-949f-366104cdc527",
+          "p_platform": "uplay"
+        }
+      },
+      "90bcca53-6c7d-4f41-8049-cf35aed1e3da": {
+        "ranked": {
+          "kd": 1.47,
+          "mmr": 5418,
+          "rank": 21,
+          "champ": 34,
+          "NA_mmr": 5418,
+          "NA_rank": 21,
+          "NA_champ": 34,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 133
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Loefstedt",
+          "p_user": "90bcca53-6c7d-4f41-8049-cf35aed1e3da",
+          "p_platform": "uplay"
+        }
+      },
+      "12ca8d6f-d4b2-470c-b713-ab1e178940c9": {
+        "ranked": {
+          "kd": 1.36,
+          "mmr": 5417,
+          "rank": 21,
+          "champ": 33,
+          "NA_mmr": 5417,
+          "NA_rank": 21,
+          "NA_champ": 33,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 280
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Tito-_",
+          "p_user": "12ca8d6f-d4b2-470c-b713-ab1e178940c9",
+          "p_platform": "uplay"
+        }
+      },
+      "f2d22d24-7a87-4bce-8b3c-d92a313a6172": {
+        "ranked": {
+          "kd": 1.16,
+          "mmr": 5413,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5413,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 166
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "GoodBoy.GODSENT",
+          "p_user": "f2d22d24-7a87-4bce-8b3c-d92a313a6172",
+          "p_platform": "uplay"
+        }
+      },
+      "4eca7b43-a96f-432a-8c44-24377f8af2f6": {
+        "ranked": {
+          "kd": 1.23,
+          "mmr": 5410,
+          "rank": 21,
+          "champ": 35,
+          "NA_mmr": 5410,
+          "NA_rank": 21,
+          "NA_champ": 35,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 131
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "LBillzz",
+          "p_user": "4eca7b43-a96f-432a-8c44-24377f8af2f6",
+          "p_platform": "uplay"
+        }
+      },
+      "35cc31ec-07da-4e21-a854-202e0a02ed6e": {
+        "ranked": {
+          "kd": 1.45,
+          "mmr": 5405,
+          "rank": 21,
+          "champ": 35,
+          "NA_mmr": 5405,
+          "NA_rank": 21,
+          "NA_champ": 35,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 225
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Worthy.Elevate",
+          "p_user": "35cc31ec-07da-4e21-a854-202e0a02ed6e",
+          "p_platform": "uplay"
+        }
+      },
+      "8d887d4e-3e59-4334-bc79-b5a304981d56": {
+        "ranked": {
+          "kd": 1.28,
+          "mmr": 5399,
+          "rank": 21,
+          "champ": 37,
+          "NA_mmr": 5399,
+          "NA_rank": 21,
+          "NA_champ": 37,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 309
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Khaos.--",
+          "p_user": "8d887d4e-3e59-4334-bc79-b5a304981d56",
+          "p_platform": "uplay"
+        }
+      },
+      "8b07e440-a3ce-44d1-963d-436a875d19ab": {
+        "ranked": {
+          "kd": 1.24,
+          "mmr": 5398,
+          "rank": 21,
+          "champ": 38,
+          "NA_mmr": 5398,
+          "NA_rank": 21,
+          "NA_champ": 38,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 385
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "KahluaXD",
+          "p_user": "8b07e440-a3ce-44d1-963d-436a875d19ab",
+          "p_platform": "uplay"
+        }
+      },
+      "ce02215f-72ad-4c87-905c-cdd47dae8785": {
+        "ranked": {
+          "kd": 1.37,
+          "mmr": 5395,
+          "rank": 21,
+          "champ": 37,
+          "NA_mmr": 5395,
+          "NA_rank": 21,
+          "NA_champ": 37,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 157
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "azuna.C1",
+          "p_user": "ce02215f-72ad-4c87-905c-cdd47dae8785",
+          "p_platform": "uplay"
+        }
+      },
+      "be9d6e8d-9292-4eea-a027-f9ea9996c5e8": {
+        "ranked": {
+          "kd": 1.41,
+          "mmr": 5393,
+          "rank": 21,
+          "champ": 38,
+          "NA_mmr": 5393,
+          "NA_rank": 21,
+          "NA_champ": 38,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 302
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Lycolis.Qc",
+          "p_user": "be9d6e8d-9292-4eea-a027-f9ea9996c5e8",
+          "p_platform": "uplay"
+        }
+      },
+      "7abb41e0-0ac2-4ac3-bc4a-a06e62a3a53c": {
+        "ranked": {
+          "kd": 1.52,
+          "mmr": 5390,
+          "rank": 21,
+          "champ": 40,
+          "NA_mmr": 5390,
+          "NA_rank": 21,
+          "NA_champ": 40,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 217
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "oF4LCoN",
+          "p_user": "7abb41e0-0ac2-4ac3-bc4a-a06e62a3a53c",
+          "p_platform": "uplay"
+        }
+      },
+      "0eea1926-6640-4f9f-ba03-bc34706e8981": {
+        "ranked": {
+          "kd": 1.35,
+          "mmr": 5385,
+          "rank": 21,
+          "champ": 38,
+          "NA_mmr": 5385,
+          "NA_rank": 21,
+          "NA_champ": 38,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 149
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "sai.Stalker",
+          "p_user": "0eea1926-6640-4f9f-ba03-bc34706e8981",
+          "p_platform": "uplay"
+        }
+      },
+      "6ac2a9cf-88ad-43d1-89f4-aa99fe9f15a4": {
+        "ranked": {
+          "kd": 1.58,
+          "mmr": 5383,
+          "rank": 21,
+          "champ": 41,
+          "NA_mmr": 5383,
+          "NA_rank": 21,
+          "NA_champ": 41,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 404
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Benjamaster2k",
+          "p_user": "6ac2a9cf-88ad-43d1-89f4-aa99fe9f15a4",
+          "p_platform": "uplay"
+        }
+      },
+      "cd13b8cc-29ad-4ba6-8d85-70a748c07fc7": {
+        "ranked": {
+          "kd": 1.27,
+          "mmr": 5382,
+          "rank": 21,
+          "champ": 41,
+          "NA_mmr": 5382,
+          "NA_rank": 21,
+          "NA_champ": 41,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 393
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "A1kyan.SG",
+          "p_user": "cd13b8cc-29ad-4ba6-8d85-70a748c07fc7",
+          "p_platform": "uplay"
+        }
+      },
+      "23a189d4-36a3-4ec9-b6cd-c670adcb87b2": {
+        "ranked": {
+          "kd": 1.3,
+          "mmr": 5381,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5381,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 125
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "RedRaceCar99",
+          "p_user": "23a189d4-36a3-4ec9-b6cd-c670adcb87b2",
+          "p_platform": "uplay"
+        }
+      },
+      "eb35c410-cada-4ce0-b75a-fac420eab6c9": {
+        "ranked": {
+          "kd": 1.69,
+          "mmr": 5368,
+          "rank": 21,
+          "champ": 44,
+          "NA_mmr": 5368,
+          "NA_rank": 21,
+          "NA_champ": 44,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 201
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Shaiiko.Tempra",
+          "p_user": "eb35c410-cada-4ce0-b75a-fac420eab6c9",
+          "p_platform": "uplay"
+        }
+      },
+      "05fbca1f-be82-4b17-b9e8-4442aebed0da": {
+        "ranked": {
+          "kd": 1.73,
+          "mmr": 5368,
+          "rank": 21,
+          "champ": 45,
+          "NA_mmr": 5368,
+          "NA_rank": 21,
+          "NA_champ": 45,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 470
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "YahooN.SG",
+          "p_user": "05fbca1f-be82-4b17-b9e8-4442aebed0da",
+          "p_platform": "uplay"
+        }
+      },
+      "d9ac388c-5220-4232-bbd5-ab541a134a37": {
+        "ranked": {
+          "kd": 1.26,
+          "mmr": 5363,
+          "rank": 21,
+          "champ": 47,
+          "NA_mmr": 5363,
+          "NA_rank": 21,
+          "NA_champ": 47,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 194
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "NinaUxU",
+          "p_user": "d9ac388c-5220-4232-bbd5-ab541a134a37",
+          "p_platform": "uplay"
+        }
+      },
+      "fee3be42-a8e4-4f3f-8d10-27d1548b6198": {
+        "ranked": {
+          "kd": 1.46,
+          "mmr": 5363,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5363,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 409
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Josh.Vexed",
+          "p_user": "fee3be42-a8e4-4f3f-8d10-27d1548b6198",
+          "p_platform": "uplay"
+        }
+      },
+      "c96883a7-2e91-41f8-a5f7-ce08aa0381eb": {
+        "ranked": {
+          "kd": 1.43,
+          "mmr": 5357,
+          "rank": 21,
+          "champ": 48,
+          "NA_mmr": 5357,
+          "NA_rank": 21,
+          "NA_champ": 48,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 354
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "hxnteer.FURIA",
+          "p_user": "c96883a7-2e91-41f8-a5f7-ce08aa0381eb",
+          "p_platform": "uplay"
+        }
+      },
+      "1ed628c8-9cd1-4e68-b16b-60dcc4fff4c5": {
+        "ranked": {
+          "kd": 1.24,
+          "mmr": 5356,
+          "rank": 21,
+          "champ": 50,
+          "NA_mmr": 5356,
+          "NA_rank": 21,
+          "NA_champ": 50,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 235
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "ShuaiMengS",
+          "p_user": "1ed628c8-9cd1-4e68-b16b-60dcc4fff4c5",
+          "p_platform": "uplay"
+        }
+      },
+      "278d68b4-a9e6-4ab4-b3da-bb0545f4dbbc": {
+        "ranked": {
+          "kd": 1.36,
+          "mmr": 5348,
+          "rank": 21,
+          "champ": 50,
+          "NA_mmr": 5348,
+          "NA_rank": 21,
+          "NA_champ": 50,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 399
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "dan-_-.Empire",
+          "p_user": "278d68b4-a9e6-4ab4-b3da-bb0545f4dbbc",
+          "p_platform": "uplay"
+        }
+      },
+      "8bf5a2f2-35cf-4274-b87d-06bf59d8e16d": {
+        "ranked": {
+          "kd": 1.1,
+          "mmr": 5346,
+          "rank": 21,
+          "champ": 50,
+          "NA_mmr": 5346,
+          "NA_rank": 21,
+          "NA_champ": 50,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 262
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "SVKKE.TH",
+          "p_user": "8bf5a2f2-35cf-4274-b87d-06bf59d8e16d",
+          "p_platform": "uplay"
+        }
+      },
+      "406871cd-b423-4372-87cb-1060bfb827e7": {
+        "ranked": {
+          "kd": 1.77,
+          "mmr": 5343,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5343,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 273
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "FaloRRR",
+          "p_user": "406871cd-b423-4372-87cb-1060bfb827e7",
+          "p_platform": "uplay"
+        }
+      },
+      "e3a6daae-d67a-448f-ad80-049b9cfeef23": {
+        "ranked": {
+          "kd": 1.17,
+          "mmr": 5336,
+          "rank": 21,
+          "champ": 52,
+          "NA_mmr": 5336,
+          "NA_rank": 21,
+          "NA_champ": 52,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 255
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "skiddywan",
+          "p_user": "e3a6daae-d67a-448f-ad80-049b9cfeef23",
+          "p_platform": "uplay"
+        }
+      },
+      "4c4e9227-1cc2-4e7d-a95b-12f3ee9f6708": {
+        "ranked": {
+          "kd": 1.08,
+          "mmr": 5331,
+          "rank": 21,
+          "champ": 53,
+          "NA_mmr": 5331,
+          "NA_rank": 21,
+          "NA_champ": 53,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 155
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "CIoset.PS4",
+          "p_user": "4c4e9227-1cc2-4e7d-a95b-12f3ee9f6708",
+          "p_platform": "uplay"
+        }
+      },
+      "0dc57f26-e89f-4444-9630-9326b9e117b3": {
+        "ranked": {
+          "kd": 1.49,
+          "mmr": 5328,
+          "rank": 21,
+          "champ": 53,
+          "NA_mmr": 5328,
+          "NA_rank": 21,
+          "NA_champ": 53,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 280
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "CYBER.mibr",
+          "p_user": "0dc57f26-e89f-4444-9630-9326b9e117b3",
+          "p_platform": "uplay"
+        }
+      },
+      "0a135e95-5cf4-41c5-b7c5-53c03eacd7eb": {
+        "ranked": {
+          "kd": 1.51,
+          "mmr": 5323,
+          "rank": 21,
+          "champ": 55,
+          "NA_mmr": 5323,
+          "NA_rank": 21,
+          "NA_champ": 55,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 333
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "S3xyCake.Liquid",
+          "p_user": "0a135e95-5cf4-41c5-b7c5-53c03eacd7eb",
+          "p_platform": "uplay"
+        }
+      },
+      "d65b58f1-74de-40a3-84a0-670a8365aab6": {
+        "ranked": {
+          "kd": 1.43,
+          "mmr": 5321,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5321,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 393
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Hotancold.DZ",
+          "p_user": "d65b58f1-74de-40a3-84a0-670a8365aab6",
+          "p_platform": "uplay"
+        }
+      },
+      "bd032177-9241-47fc-841b-3867cccf571f": {
+        "ranked": {
+          "kd": 1.16,
+          "mmr": 5320,
+          "rank": 21,
+          "champ": 56,
+          "NA_mmr": 5320,
+          "NA_rank": 21,
+          "NA_champ": 56,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 311
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "easilyy.sQ",
+          "p_user": "bd032177-9241-47fc-841b-3867cccf571f",
+          "p_platform": "uplay"
+        }
+      },
+      "c96eac9e-bcbd-456d-bb15-f59a97cb0623": {
+        "ranked": {
+          "kd": 1.68,
+          "mmr": 5320,
+          "rank": 21,
+          "champ": 56,
+          "NA_mmr": 5320,
+          "NA_rank": 21,
+          "NA_champ": 56,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 401
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Reeps96.Chillax",
+          "p_user": "c96eac9e-bcbd-456d-bb15-f59a97cb0623",
+          "p_platform": "uplay"
+        }
+      },
+      "3a8498fc-000e-43cb-af66-182c983ca9de": {
+        "ranked": {
+          "kd": 1.28,
+          "mmr": 5317,
+          "rank": 21,
+          "champ": 57,
+          "NA_mmr": 5317,
+          "NA_rank": 21,
+          "NA_champ": 57,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 168
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "MoonLight.u5",
+          "p_user": "3a8498fc-000e-43cb-af66-182c983ca9de",
+          "p_platform": "uplay"
+        }
+      },
+      "d434d74a-cc16-4019-b63a-00836892e5c6": {
+        "ranked": {
+          "kd": 1.57,
+          "mmr": 5313,
+          "rank": 21,
+          "champ": 57,
+          "NA_mmr": 5313,
+          "NA_rank": 21,
+          "NA_champ": 57,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 334
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Luiz-Kun",
+          "p_user": "d434d74a-cc16-4019-b63a-00836892e5c6",
+          "p_platform": "uplay"
+        }
+      },
+      "2cbdea4c-f336-4c3d-b10e-edd1b2ebdace": {
+        "ranked": {
+          "kd": 1.36,
+          "mmr": 5312,
+          "rank": 21,
+          "champ": 60,
+          "NA_mmr": 5312,
+          "NA_rank": 21,
+          "NA_champ": 60,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 224
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "IMPACT.Delta",
+          "p_user": "2cbdea4c-f336-4c3d-b10e-edd1b2ebdace",
+          "p_platform": "uplay"
+        }
+      },
+      "123f989e-e83f-4ab6-aacc-2a7734d4a679": {
+        "ranked": {
+          "kd": 1.43,
+          "mmr": 5309,
+          "rank": 21,
+          "champ": 60,
+          "NA_mmr": 5309,
+          "NA_rank": 21,
+          "NA_champ": 60,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 303
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "C3ow.-",
+          "p_user": "123f989e-e83f-4ab6-aacc-2a7734d4a679",
+          "p_platform": "uplay"
+        }
+      },
+      "2aeea46d-d622-4460-8cfc-800ab0f7a1d7": {
+        "ranked": {
+          "kd": 1.28,
+          "mmr": 5304,
+          "rank": 21,
+          "champ": 60,
+          "NA_mmr": 5304,
+          "NA_rank": 21,
+          "NA_champ": 60,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 255
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "notk55.Godzilla",
+          "p_user": "2aeea46d-d622-4460-8cfc-800ab0f7a1d7",
+          "p_platform": "uplay"
+        }
+      },
+      "0b36ef21-2c9b-40fc-b522-7693ded244fc": {
+        "ranked": {
+          "kd": 1.28,
+          "mmr": 5303,
+          "rank": 21,
+          "champ": 62,
+          "NA_mmr": 5303,
+          "NA_rank": 21,
+          "NA_champ": 62,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 217
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Mos.Godzilla",
+          "p_user": "0b36ef21-2c9b-40fc-b522-7693ded244fc",
+          "p_platform": "uplay"
+        }
+      },
+      "3905dd1b-365d-4be8-9950-ec97e8e3e64d": {
+        "ranked": {
+          "kd": 1.12,
+          "mmr": 5302,
+          "rank": 21,
+          "champ": 63,
+          "NA_mmr": 5302,
+          "NA_rank": 21,
+          "NA_champ": 63,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 271
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Scatto.",
+          "p_user": "3905dd1b-365d-4be8-9950-ec97e8e3e64d",
+          "p_platform": "uplay"
+        }
+      },
+      "f5d9718d-7bb0-43b8-b7fc-e82d66e1715b": {
+        "ranked": {
+          "kd": 2.39,
+          "mmr": 5301,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5301,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 144
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "CHAGA0",
+          "p_user": "f5d9718d-7bb0-43b8-b7fc-e82d66e1715b",
+          "p_platform": "uplay"
+        }
+      },
+      "70f4d5b2-6395-4482-bd12-e14bf8578630": {
+        "ranked": {
+          "kd": 1.1,
+          "mmr": 5297,
+          "rank": 21,
+          "champ": 66,
+          "NA_mmr": 5297,
+          "NA_rank": 21,
+          "NA_champ": 66,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 261
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "splash.oS",
+          "p_user": "70f4d5b2-6395-4482-bd12-e14bf8578630",
+          "p_platform": "uplay"
+        }
+      },
+      "12543271-1c0e-4b5b-9b44-35b99a1abc85": {
+        "ranked": {
+          "kd": 1.2,
+          "mmr": 5290,
+          "rank": 21,
+          "champ": 65,
+          "NA_mmr": 5290,
+          "NA_rank": 21,
+          "NA_champ": 65,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 322
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Mello-DG",
+          "p_user": "12543271-1c0e-4b5b-9b44-35b99a1abc85",
+          "p_platform": "uplay"
+        }
+      },
+      "eac2b730-64fb-424c-911a-578b92b297fc": {
+        "ranked": {
+          "kd": 1.21,
+          "mmr": 5287,
+          "rank": 21,
+          "champ": 64,
+          "NA_mmr": 5287,
+          "NA_rank": 21,
+          "NA_champ": 64,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 291
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "MaGnUs.TLR",
+          "p_user": "eac2b730-64fb-424c-911a-578b92b297fc",
+          "p_platform": "uplay"
+        }
+      },
+      "bbd79083-bffd-4724-ba3c-76d3bd5a4e39": {
+        "ranked": {
+          "kd": 1.58,
+          "mmr": 5282,
+          "rank": 21,
+          "champ": 65,
+          "NA_mmr": 5282,
+          "NA_rank": 21,
+          "NA_champ": 65,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 137
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "BuffaloBob.",
+          "p_user": "bbd79083-bffd-4724-ba3c-76d3bd5a4e39",
+          "p_platform": "uplay"
+        }
+      },
+      "1c9c7297-2c3d-431b-bd0b-87d35f544349": {
+        "ranked": {
+          "kd": 1.57,
+          "mmr": 5280,
+          "rank": 21,
+          "champ": 69,
+          "NA_mmr": 5280,
+          "NA_rank": 21,
+          "NA_champ": 69,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 353
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Osamu.Godzilla",
+          "p_user": "1c9c7297-2c3d-431b-bd0b-87d35f544349",
+          "p_platform": "uplay"
+        }
+      },
+      "fd402f61-6f13-4fab-b31b-0387b83ef8ba": {
+        "ranked": {
+          "kd": 1.44,
+          "mmr": 5276,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5276,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 303
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Mxreaper.",
+          "p_user": "fd402f61-6f13-4fab-b31b-0387b83ef8ba",
+          "p_platform": "uplay"
+        }
+      },
+      "661e632b-c2cd-4994-96ba-6d9ed930b941": {
+        "ranked": {
+          "kd": 1.32,
+          "mmr": 5275,
+          "rank": 21,
+          "champ": 73,
+          "NA_mmr": 5275,
+          "NA_rank": 21,
+          "NA_champ": 73,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 490
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "LeonGids.Rogue",
+          "p_user": "661e632b-c2cd-4994-96ba-6d9ed930b941",
+          "p_platform": "uplay"
+        }
+      },
+      "21c929c5-b177-448d-8e6e-2bed79769bc4": {
+        "ranked": {
+          "kd": 2.09,
+          "mmr": 5274,
+          "rank": 21,
+          "champ": 77,
+          "NA_mmr": 5274,
+          "NA_rank": 21,
+          "NA_champ": 77,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 260
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Mallo.Matrix",
+          "p_user": "21c929c5-b177-448d-8e6e-2bed79769bc4",
+          "p_platform": "uplay"
+        }
+      },
+      "ed5e25ae-e7eb-4433-8aad-d09fa6019f81": {
+        "ranked": {
+          "kd": 1.39,
+          "mmr": 5272,
+          "rank": 21,
+          "champ": 71,
+          "NA_mmr": 5272,
+          "NA_rank": 21,
+          "NA_champ": 71,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 367
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "Kendrew.NaVi",
+          "p_user": "ed5e25ae-e7eb-4433-8aad-d09fa6019f81",
+          "p_platform": "uplay"
+        }
+      },
+      "95173847-816d-4c13-af08-ffb36469c49b": {
+        "ranked": {
+          "kd": 1.65,
+          "mmr": 5271,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5271,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 461
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Erkkari.GiFu",
+          "p_user": "95173847-816d-4c13-af08-ffb36469c49b",
+          "p_platform": "uplay"
+        }
+      },
+      "e0eb3652-b8e5-4eaf-8cb4-44add44046d5": {
+        "ranked": {
+          "kd": 1.38,
+          "mmr": 5271,
+          "rank": 21,
+          "champ": 79,
+          "NA_mmr": 5271,
+          "NA_rank": 21,
+          "NA_champ": 79,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 272
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "CoPaHiPo.North",
+          "p_user": "e0eb3652-b8e5-4eaf-8cb4-44add44046d5",
+          "p_platform": "uplay"
+        }
+      },
+      "8ee79e79-b277-4907-96c7-3245dd8a3029": {
+        "ranked": {
+          "kd": 1.2,
+          "mmr": 5268,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5268,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 136
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Shailko.bGenius",
+          "p_user": "8ee79e79-b277-4907-96c7-3245dd8a3029",
+          "p_platform": "uplay"
+        }
+      },
+      "9f2b6b7f-6a01-4209-a94f-0fc28eb270a7": {
+        "ranked": {
+          "kd": 1.24,
+          "mmr": 5266,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5266,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 128
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Shisui.Uchiwa.",
+          "p_user": "9f2b6b7f-6a01-4209-a94f-0fc28eb270a7",
+          "p_platform": "uplay"
+        }
+      },
+      "2c7fa52d-19c2-4a50-aa9e-0d8f524ace77": {
+        "ranked": {
+          "kd": 1.2,
+          "mmr": 5262,
+          "rank": 21,
+          "champ": 76,
+          "NA_mmr": 5262,
+          "NA_rank": 21,
+          "NA_champ": 76,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 325
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Jennie.LION",
+          "p_user": "2c7fa52d-19c2-4a50-aa9e-0d8f524ace77",
+          "p_platform": "uplay"
+        }
+      },
+      "98a9c7ee-8768-44e1-8958-daeb4ce7f8ca": {
+        "ranked": {
+          "kd": 1.32,
+          "mmr": 5262,
+          "rank": 21,
+          "champ": 76,
+          "NA_mmr": 5262,
+          "NA_rank": 21,
+          "NA_champ": 76,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 185
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "OVER.Godzilla",
+          "p_user": "98a9c7ee-8768-44e1-8958-daeb4ce7f8ca",
+          "p_platform": "uplay"
+        }
+      },
+      "1380d171-0370-4384-aaaf-c3ba5ba1d348": {
+        "ranked": {
+          "kd": 1.47,
+          "mmr": 5260,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5260,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 321
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Skys.DZ",
+          "p_user": "1380d171-0370-4384-aaaf-c3ba5ba1d348",
+          "p_platform": "uplay"
+        }
+      },
+      "530633d1-b779-413b-81e4-998535f96390": {
+        "ranked": {
+          "kd": 1.3,
+          "mmr": 5260,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5260,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 351
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Stigs.FNC",
+          "p_user": "530633d1-b779-413b-81e4-998535f96390",
+          "p_platform": "uplay"
+        }
+      },
+      "ef1d645d-c131-4f9c-bf1f-37d01fdf9098": {
+        "ranked": {
+          "kd": 1.62,
+          "mmr": 5258,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5258,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 140
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Anitube",
+          "p_user": "ef1d645d-c131-4f9c-bf1f-37d01fdf9098",
+          "p_platform": "uplay"
+        }
+      },
+      "bbe5a04d-402a-4485-b366-eed64db0427e": {
+        "ranked": {
+          "kd": 1.23,
+          "mmr": 5258,
+          "rank": 21,
+          "champ": 0,
+          "NA_mmr": 5258,
+          "NA_rank": 21,
+          "NA_champ": 0,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 126
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "CantaIoupe",
+          "p_user": "bbe5a04d-402a-4485-b366-eed64db0427e",
+          "p_platform": "uplay"
+        }
+      },
+      "ba3bfdbd-b7bd-4483-91a5-85053e9818ac": {
+        "ranked": {
+          "kd": 1.15,
+          "mmr": 5256,
+          "rank": 21,
+          "champ": 83,
+          "NA_mmr": 5256,
+          "NA_rank": 21,
+          "NA_champ": 83,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 351
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "iconic.sQ",
+          "p_user": "ba3bfdbd-b7bd-4483-91a5-85053e9818ac",
+          "p_platform": "uplay"
+        }
+      },
+      "c69ced1e-5393-4ab8-9472-bd9f94cf4149": {
+        "ranked": {
+          "kd": 1.11,
+          "mmr": 5246,
+          "rank": 21,
+          "champ": 85,
+          "NA_mmr": 5246,
+          "NA_rank": 21,
+          "NA_champ": 85,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 248
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Mirenzo.",
+          "p_user": "c69ced1e-5393-4ab8-9472-bd9f94cf4149",
+          "p_platform": "uplay"
+        }
+      },
+      "e99d27b9-3f40-412a-86e4-202f5d484099": {
+        "ranked": {
+          "kd": 1.52,
+          "mmr": 5245,
+          "rank": 21,
+          "champ": 83,
+          "NA_mmr": 5245,
+          "NA_rank": 21,
+          "NA_champ": 83,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 349
+        },
+        "profile": {
+          "verified": 1,
+          "p_name": "BlaZ.PENTA",
+          "p_user": "e99d27b9-3f40-412a-86e4-202f5d484099",
+          "p_platform": "uplay"
+        }
+      },
+      "498a5506-7103-489a-892d-767c4db58b09": {
+        "ranked": {
+          "kd": 1.17,
+          "mmr": 5243,
+          "rank": 21,
+          "champ": 85,
+          "NA_mmr": 5243,
+          "NA_rank": 21,
+          "NA_champ": 85,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 396
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Tomas.RF",
+          "p_user": "498a5506-7103-489a-892d-767c4db58b09",
+          "p_platform": "uplay"
+        }
+      },
+      "a5487342-4421-4a05-8644-74c42428fc8a": {
+        "ranked": {
+          "kd": 1.19,
+          "mmr": 5243,
+          "rank": 21,
+          "champ": 84,
+          "NA_mmr": 5243,
+          "NA_rank": 21,
+          "NA_champ": 84,
+          "EU_mmr": 0,
+          "EU_rank": 0,
+          "EU_champ": 0,
+          "AS_mmr": 0,
+          "AS_rank": 0,
+          "AS_champ": 0
+        },
+        "stats": {
+          "level": 328
+        },
+        "profile": {
+          "verified": 0,
+          "p_name": "Minimaisteri",
+          "p_user": "a5487342-4421-4a05-8644-74c42428fc8a",
+          "p_platform": "uplay"
+        }
+      }
+    },
+    "test": [
+      "6311edf5-f022-481c-bc9b-b725b703d5e2",
+      "d28e910f-960c-48ae-9784-9c8e9d2da0fc",
+      "b6629c88-7feb-40a0-bb36-0a5e1d7432c0",
+      "8df44fa6-49df-42d5-b6f1-e8c82809c37a",
+      "ab1ff7ae-13e4-4a6a-9b03-317285f8057b",
+      "dab5ba01-c974-4c3f-a1bc-e302820c54d0",
+      "2eaf215a-bac1-43ab-8767-a5eb7519104d",
+      "16476cc9-59e0-40b8-9745-042db0be1cb7",
+      "be4908b0-add1-46b8-8574-25ad3a61cae9",
+      "d9b99ef6-3887-414d-9819-914a15dd143c",
+      "5d5d93a9-95e5-455a-bf96-34df816ed79b",
+      "7473f450-37f0-4211-9d7e-a5432ca74751",
+      "1aa50708-8c61-40ff-82bb-46aa6b7bc438",
+      "19e533f8-e3d9-41c8-ba66-be4e324e913b",
+      "b26c6ecb-c599-4db8-8fe4-d25434440380",
+      "ea01c828-6d10-4385-a337-17f62e731bc9",
+      "f0036750-657c-4b55-8632-ee289ba9469b",
+      "4d0534be-0a5a-4cee-8b69-862dbd782747",
+      "be3313d6-d443-4eae-818f-bb7f56837781",
+      "d89cfd32-c2c7-4483-a18b-117314a1b713",
+      "34e0e0b2-78f5-4299-91d2-e150ab5ff042",
+      "1d2143b8-8baa-48a9-8d88-759ee749f9c1",
+      "1a16f2cf-7bdf-4c0f-aff5-a1b103c2814e",
+      "6397d7dd-eefa-49df-a264-1d236bc76a9e",
+      "826f26bd-e7cb-4d17-8312-b0878e5b4b8e",
+      "fe316a1a-9d5d-4dee-aed2-7b574e4f7a2e",
+      "d85c28fb-358c-4b70-a891-b97eafbff44b",
+      "4a7767af-bdf2-4fd0-bf20-bc54c529f263",
+      "9db78eef-2917-4dc8-b8c4-5e49d576efef",
+      "995b494a-0be1-4348-8704-7a7d33d39b32",
+      "e2c023db-1a08-40e3-9c00-c48ddd0968e5",
+      "dbe7c32c-1c8d-45ae-acdb-dc6fdfb1a4f8",
+      "b2c930ff-f418-4a2a-ad2b-22ea0725e0bb",
+      "0ae7e536-bf55-40f1-9e23-341416db6b9f",
+      "01d288fd-4105-470d-8f50-96bf8012bba3",
+      "d22534cb-905c-405b-8142-8ab165c23948",
+      "6281195c-d210-424e-9d8c-880cbea36c7e",
+      "8c08ba63-6f27-45a8-949f-366104cdc527",
+      "90bcca53-6c7d-4f41-8049-cf35aed1e3da",
+      "12ca8d6f-d4b2-470c-b713-ab1e178940c9",
+      "f2d22d24-7a87-4bce-8b3c-d92a313a6172",
+      "4eca7b43-a96f-432a-8c44-24377f8af2f6",
+      "35cc31ec-07da-4e21-a854-202e0a02ed6e",
+      "8d887d4e-3e59-4334-bc79-b5a304981d56",
+      "8b07e440-a3ce-44d1-963d-436a875d19ab",
+      "ce02215f-72ad-4c87-905c-cdd47dae8785",
+      "be9d6e8d-9292-4eea-a027-f9ea9996c5e8",
+      "7abb41e0-0ac2-4ac3-bc4a-a06e62a3a53c",
+      "0eea1926-6640-4f9f-ba03-bc34706e8981",
+      "6ac2a9cf-88ad-43d1-89f4-aa99fe9f15a4",
+      "cd13b8cc-29ad-4ba6-8d85-70a748c07fc7",
+      "23a189d4-36a3-4ec9-b6cd-c670adcb87b2",
+      "eb35c410-cada-4ce0-b75a-fac420eab6c9",
+      "05fbca1f-be82-4b17-b9e8-4442aebed0da",
+      "d9ac388c-5220-4232-bbd5-ab541a134a37",
+      "fee3be42-a8e4-4f3f-8d10-27d1548b6198",
+      "c96883a7-2e91-41f8-a5f7-ce08aa0381eb",
+      "1ed628c8-9cd1-4e68-b16b-60dcc4fff4c5",
+      "278d68b4-a9e6-4ab4-b3da-bb0545f4dbbc",
+      "8bf5a2f2-35cf-4274-b87d-06bf59d8e16d",
+      "406871cd-b423-4372-87cb-1060bfb827e7",
+      "e3a6daae-d67a-448f-ad80-049b9cfeef23",
+      "4c4e9227-1cc2-4e7d-a95b-12f3ee9f6708",
+      "0dc57f26-e89f-4444-9630-9326b9e117b3",
+      "0a135e95-5cf4-41c5-b7c5-53c03eacd7eb",
+      "d65b58f1-74de-40a3-84a0-670a8365aab6",
+      "bd032177-9241-47fc-841b-3867cccf571f",
+      "c96eac9e-bcbd-456d-bb15-f59a97cb0623",
+      "3a8498fc-000e-43cb-af66-182c983ca9de",
+      "d434d74a-cc16-4019-b63a-00836892e5c6",
+      "2cbdea4c-f336-4c3d-b10e-edd1b2ebdace",
+      "123f989e-e83f-4ab6-aacc-2a7734d4a679",
+      "2aeea46d-d622-4460-8cfc-800ab0f7a1d7",
+      "0b36ef21-2c9b-40fc-b522-7693ded244fc",
+      "3905dd1b-365d-4be8-9950-ec97e8e3e64d",
+      "f5d9718d-7bb0-43b8-b7fc-e82d66e1715b",
+      "70f4d5b2-6395-4482-bd12-e14bf8578630",
+      "12543271-1c0e-4b5b-9b44-35b99a1abc85",
+      "eac2b730-64fb-424c-911a-578b92b297fc",
+      "bbd79083-bffd-4724-ba3c-76d3bd5a4e39",
+      "1c9c7297-2c3d-431b-bd0b-87d35f544349",
+      "fd402f61-6f13-4fab-b31b-0387b83ef8ba",
+      "661e632b-c2cd-4994-96ba-6d9ed930b941",
+      "21c929c5-b177-448d-8e6e-2bed79769bc4",
+      "ed5e25ae-e7eb-4433-8aad-d09fa6019f81",
+      "95173847-816d-4c13-af08-ffb36469c49b",
+      "e0eb3652-b8e5-4eaf-8cb4-44add44046d5",
+      "8ee79e79-b277-4907-96c7-3245dd8a3029",
+      "9f2b6b7f-6a01-4209-a94f-0fc28eb270a7",
+      "2c7fa52d-19c2-4a50-aa9e-0d8f524ace77",
+      "98a9c7ee-8768-44e1-8958-daeb4ce7f8ca",
+      "1380d171-0370-4384-aaaf-c3ba5ba1d348",
+      "530633d1-b779-413b-81e4-998535f96390",
+      "ef1d645d-c131-4f9c-bf1f-37d01fdf9098",
+      "bbe5a04d-402a-4485-b366-eed64db0427e",
+      "ba3bfdbd-b7bd-4483-91a5-85053e9818ac",
+      "c69ced1e-5393-4ab8-9472-bd9f94cf4149",
+      "e99d27b9-3f40-412a-86e4-202f5d484099",
+      "498a5506-7103-489a-892d-767c4db58b09",
+      "a5487342-4421-4a05-8644-74c42428fc8a"
+    ]
+  }
