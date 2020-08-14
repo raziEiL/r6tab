@@ -6,7 +6,7 @@ The open-source library as a means of accessing the public [R6Tab | Tabstats.com
 
 ## Usage
 ```js
-import R6TabAPI, { ServicePlatform, GamePlatform, Region, NameWrapper } from "r6tab";
+import R6TabAPI, { ServicePlatform, GamePlatform, Region } from "r6tab";
 
 const r6tab = new R6TabAPI();
 ```
