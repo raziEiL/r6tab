@@ -18,12 +18,12 @@
         "type": "git",
         "url": "https://github.com/raziEiL/r6tab.git"
     },
-    "keywords": ["r6tab", "rainbow six", "api", "api client", "tabstats"],
+    "keywords": ["r6tab", "rainbow six", "api", "api client", "tabstats", "rainbow-six-siege", "node", "javascript", "typescript"],
     "author": {
         "name": "Denis Medvedev (raziEiL)",
         "email": "mr.raz4291@gmail.com"
     },
-    "license": "ISC",
+    "license": "GPL-3.0",
     "homepage": "https://github.com/raziEiL/r6tab#readme",
     "files": [
         "dist/**/*"
