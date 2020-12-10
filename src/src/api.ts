@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/camelcase */
 import axios, { AxiosInstance, AxiosRequestConfig } from "axios";
-import { timestamp } from "ts-raz-util";
+import { timestamp } from "@raz1el/util";
 import { R6TabAPIConfig, APIResponse, NameResponse, IdResponse, LeadersResponse, ServicePlatform, GamePlatform, Region } from "./types";
 import { isFound, REGEX_PLAYER_ID_MASK } from "./helpers";
 

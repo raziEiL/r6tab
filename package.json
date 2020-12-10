@@ -56,8 +56,8 @@
         ]
     },
     "dependencies": {
-        "axios": "^0.19.2",
-        "ts-raz-util": "^1.0.3"
+        "@raz1el/util": "^1.0.5",
+        "axios": "^0.19.2"
     },
     "devDependencies": {
         "@types/jest": "^25.2.3",
